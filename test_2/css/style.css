@@ -1,0 +1,16 @@
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #bbb;
+    padding-left: 8vw;
+    padding-bottom: 5vw;
+}
+.flex_container {
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+  display: block;
+}
+h2 {
+  text-align: center;
+}
